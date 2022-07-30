@@ -1,8 +1,39 @@
 <resources>
-    <string name="app_name">DeepLab3</string>
+    <string name="app_name">Segmentación médica</string>
     <string name="an_image">an image</string>
     <string name="image_view">Image View</string>
-    <string name="segment">Segment</string>
-    <string name="run_model">Running the model...</string>
-    <string name="restart">Restart</string>
+    <string name="segment">Segmentar</string>
+    <string name="run_model">Ejecutando...</string>
+    <string name="restart">Restaurar</string>
+    <string name="welcome_skip_button">Siguiente</string>
+    <string name="main_vision_button">Modelos</string>
+
+    <string name="image_classification_title">Image Classification</string>
+
+    <string name="welcome_page_title">Bienvenido</string>
+    <string name="welcome_page_description">Aplicación de segmentación médica</string>
+
+    <string name="welcome_page_brain_segmentation_title">Segmentación cerebral</string>
+    <string name="welcome_page_brain_segmentation_description">Segmentación en tiempo real para agilizar diagnósticos cerebrales</string>
+
+    <string name="welcome_page_retina_segmentation_title">Segmentación de la retina</string>
+    <string name="welcome_page_retina_segmentation_description">Analiza rápidamente lesiones oculares y compártelos!</string>
+
+    <string name="vision_card_unet_brain_title">UNet Brain</string>
+    <string name="vision_card_unet_brain_description_short">Segmente zonas anómalas del cerebro</string>
+    <string name="vision_card_unet_brain_description">Entrenado en el dataset LGG MRI (resonancia magnética de 3 canales), este modelo
+        es capaz de segmentar anormalidades lozalizadas en el cerebro.</string>
+
+    <string name="vision_card_unet_retina_title">UNet Retina</string>
+    <string name="vision_card_unet_retina_description_short">Segmente vasos sanguíneos de la retina</string>
+    <string name="vision_card_unet_retina_description">Entrenado en el dataset ISIC-2018 (2596 pares de imágenes y máscaras), este modelo
+        es capaz de segmentar el los vasos sanguíneos de la retina.
+    </string>
+    <string name="error_dialog_text">Error, verifique los pesos y/o descárguelos del <a href="https://github.com/HiroForYou/Retina-Blood-Vessel-Segmentation">repositorio</a>!</string>
+    <string name="select">Seleccionar</string>
+    <string name="share">Compartir</string>
+    <string name="link">
+        Para mayor información, revisar mi
+        <a href="https://github.com/HiroForYou/Retina-Blood-Vessel-Segmentation">repositorio</a>.
+    </string>
 </resources>

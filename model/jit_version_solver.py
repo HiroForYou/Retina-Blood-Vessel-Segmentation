@@ -1,3 +1,8 @@
+"""
+    Este script sirve para solucionar incompatibilidades de versión de pytorch jit
+    en el dispostivo android    
+"""
+
 from torch.jit.mobile import (
     _backport_for_mobile,
     _get_model_bytecode_version,

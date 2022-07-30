@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/bg_error_dialog.xml" value="0.1185" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/bg_info_button_ok.xml" value="0.1185" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/bg_list_card.xml" value="0.1405" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/bg_nlp_edittext.xml" value="0.1185" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/bg_skip_button.xml" value="0.1405" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/bg_tab_indicator.xml" value="0.1405" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/bg_text_classification_clear_button.xml" value="0.1405" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/ic_back.xml" value="0.1" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/ic_error_icon.xml" value="0.1" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/ic_image_classification_l.xml" value="0.1175" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/ic_image_classification_s.xml" value="0.1175" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1405" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/ic_logo_pytorch.xml" value="0.1405" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable-v24/result_row_progress_bar_progress_state.xml" value="0.1405" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1405" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/activity_image_classification.xml" value="0.10729166666666666" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/activity_list_stub.xml" value="0.22327898550724637" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/activity_main.xml" value="0.10729166666666666" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/activity_main_.xml" value="0.10729166666666666" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/activity_model.xml" value="0.264" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/activity_text_classification.xml" value="0.10729166666666666" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/activity_welcome.xml" value="0.10729166666666666" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/error_dialog.xml" value="0.10729166666666666" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/image_classification_result_row.xml" value="0.10729166666666666" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/info.xml" value="0.10729166666666666" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/list_card.xml" value="0.10729166666666666" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/nlp_list_content.xml" value="0.10729166666666666" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/texture_view.xml" value="0.10729166666666666" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/vision_list_content.xml" value="0.10729166666666666" />
+        <entry key="..\:/TRABAJOS/UNIVERSIDAD/CURSOS/Moviles/Retina-Blood-Vessel-Segmentation/app/src/main/res/layout/welcome_pager_page.xml" value="0.22327898550724637" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
